@@ -176,6 +176,6 @@
 
 .fade-in {
   opacity: 0;
-  animation: fadeInUp 0.8s ease forwards;
+  animation: fadeInUp 2s ease forwards;
 }
 
