@@ -147,7 +147,6 @@
   display: flex;
   justify-content : left;
   margin-left: 50px;
-  text-decoration: underline;
   margin-top:50px;
   background: linear-gradient(90deg, #e0d3ee, #dd86eb);
   max-width: fit-content;
