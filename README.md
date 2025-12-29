@@ -42,7 +42,7 @@ portfolio/
 
 ## 🌐 Live Demo
 
-Visit: [https://ayushverse.github.io/portfolio/](https://ayushverse.github.io/portfolio/)
+Visit: [https://portfolio-dusky-nine-99.vercel.app/](https://portfolio-dusky-nine-99.vercel.app/)
 
 ## 📝 License
 
