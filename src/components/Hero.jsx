@@ -16,7 +16,7 @@ const Hero = () => {
             <div className="relative group">
                 <div className="absolute -inset-1 bg-red-600 blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
                 <a
-                    href="/resume.pdf"
+                    href="/Ayush_Resume.pdf"
                     download
                     className="relative flex items-center justify-center bg-black border-2 border-red-600 px-10 py-4 text-2xl font-geo font-bold text-red-500 uppercase tracking-widest hover:text-white hover:bg-red-600 transition-all duration-300"
                 >
